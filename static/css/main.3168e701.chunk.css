@@ -1,2 +1,0 @@
-body{margin:0}.App{width:100vw;height:100vh;background-color:#add8e6}.Fader{position:fixed;z-index:10;left:0;top:0;width:100%;height:100%;background-color:#000;-webkit-transition:background 4s;transition:background 4s}.Fader.fading{background-color:#fff}.Fader.revealing{-webkit-transition:background 2s;transition:background 2s;background-color:hsla(0,0%,100%,0)}.Fader.revealed{display:none}.MainBody{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
-/*# sourceMappingURL=main.3168e701.chunk.css.map */
